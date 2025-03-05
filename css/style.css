@@ -152,7 +152,7 @@ padding: 0;
 
 /* Texto do card */
 .ptexto {
-  text-align: left;
+  text-align: justify;
     line-height: 1.7;
     font-size: 16px;
 }
