@@ -213,15 +213,6 @@ padding: 0;
       width: calc(33.33% - 10px); /* Três colunas */
   }
 }
-
-
-  .video_sobre iframe {
-    width: 100%;
-    height: auto;
-    max-width: 560px; /* Define um tamanho máximo */
-    aspect-ratio: 16 / 9; /* Mantém a proporção do player */
-    border: none; /* Remove bordas extras */
-  }
   
   .thought-bubble {
     position: relative;
@@ -543,3 +534,4 @@ li {
 .texto-com-espaco {
   line-height: 1.1; 
 }
+
